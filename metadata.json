@@ -1,0 +1,8 @@
+{
+  "name": "RIDGELINE — Premium Roofing",
+  "description": "High-end American architectural roofing landing page with cinematic scroll-driven 3D showcase, technical inspections, before/after slider, and estimate request flow.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
